@@ -1,0 +1,24 @@
+{
+  "name": "nco",
+  "version": "0.0.1",
+  "description": "Applies a default value to a variable if it is null or undefined.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArtificerEntertainment/nco.git"
+  },
+  "keywords": [
+    "default",
+    "value",
+    "variable"
+  ],
+  "author": "Artificer Entertainment",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArtificerEntertainment/nco/issues"
+  },
+  "homepage": "https://github.com/ArtificerEntertainment/nco"
+}
