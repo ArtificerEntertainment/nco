@@ -11,6 +11,7 @@ Usage:
 const nco = require('nco');
 function myFunction(var1, var2) {
   var1 = nco(var1, 'default1');
+  //if var1 was null or undefined, it will now be 'default1'
   var2 = nco(var2, 'default2');
   //etc.
 }
