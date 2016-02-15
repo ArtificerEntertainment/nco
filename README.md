@@ -1,7 +1,6 @@
 # nco
 
-An npm package that provides a function that acts as a Null-Coalescing
-Operator (nco). This is a terse way of setting default values.
+A function that acts as a Null-Coalescing Operator (nco) for npm and node. This is a terse way of setting default values.
 
 You can read more about null-coalescing operators here:
 https://en.wikipedia.org/wiki/Null_coalescing_operator
