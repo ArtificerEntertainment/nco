@@ -1,6 +1,6 @@
 {
   "name": "nco",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Applies a default value to a variable if it is null or undefined.",
   "main": "lib/index.js",
   "scripts": {
